@@ -1,0 +1,4 @@
+1,kiet,quangnam,150,275000
+2,ruan,nghean,200,385000
+3,ly,danang,310,693000
+4,cy,hanoi,170,319000

@@ -1,0 +1,4 @@
+1,pak,a1,qn
+2,duck,a2,dn
+3,lu,a3,hg
+4,ha,a2,qn
